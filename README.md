@@ -1,14 +1,13 @@
 # 🎵 UltraVinyl: Department of Rotational Integrity
+This is an extremely serious rhythm game created in 7 days for the Juniper Dev Game Jam, based on the theme: "Spin To Win". Any resemblance to "having fun" is purely coincidental.
+- [Download it here!](https://sisypheus.itch.io/ultravinyl)
+
 Officially certified as the most serious rhythm game submitted to the jam.
 Failure to maintain rotational integrity may result in immediate disciplinary action.
 ## 📜 Executive Summary
 Welcome to the Department of Rotational Integrity, where every vinyl rotation is a matter of national importance.
 
 Your mission is simple: move the needle, follow strict rotational protocol, press on beat, and absolutely, under no circumstances, compromise the integrity of the record.
-
-This is an extremely serious rhythm game created for the Juniper Dev Game Jam, based on the theme: "Spin To Win". Any resemblance to "having fun" is purely coincidental.
-- [Download it here!](https://sisypheus.itch.io/ultravinyl)
-
 ## 🏛 Official Duties
 - 📀 Move the gramophone needle between rotational lanes.
 - 🎵 Hit every beat with government-approved precision.
